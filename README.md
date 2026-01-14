@@ -216,4 +216,4 @@ If you need this tool, contact me.
 
 **Disclaimer:** This software is for educational purposes only. Trading involves risk of loss. The developers are not responsible for any financial losses incurred while using this bot.
 
-**Support:** For questions or issues, contact via Telegram: [@Vladmeer](https://t.me/solana0trader) | Twitter: [@Vladmeer](https://x.com/solis_000)
+**Support:** For questions or issues, contact via Telegram: [@Axiom](https://t.me/solana0trader) | Twitter: [@Axiom](https://x.com/solis_000)
